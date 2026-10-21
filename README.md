@@ -1,3 +1,5 @@
+Hey! I am Jean-Baptiste Cadart. This website is still hugly, I'm working on it;-)
+
 I am a PhD student in complex geometry at Occidental Bretagne University (UBO) and Chalmers University of Technology, under the supervision of <a href="https://www.univ-brest.fr/departement-mathematiques/fr/membre/carl-tipler">Carl Tipler</a> and <a href="https://www.chalmers.se/en/persons/sektnan/">Lars Martin Sektnan</a>.
 
 
