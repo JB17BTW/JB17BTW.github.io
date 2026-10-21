@@ -14,5 +14,8 @@ From this year, I organize a series of seminars whose goal is to analyse the rel
 
 **First Talk :** <a href="https://www.uni-saarland.de/lehrstuhl/lazic/prof-dr-vladimir-lazic/vladimir-lazic-where-i-stand-on-ai.html">Vladimir Lazić</a> - Discussion and debate from "Where I stand on AI". Thursday 29, 9 a.m. Paris Time.
 
+Meeting link: https://visio.numerique.gouv.fr/kjz-utnx-edu
+
+
 If you are interested to be in the mailing list to get information about the coming events, please contact me by email.
 
