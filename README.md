@@ -1,1 +1,1 @@
-# JB17BTW.github.io
+I am a PhD student at Occidental Bretagne University (UBO) and Chalmers University of Technology, under the supervision of [Carl Tipler]{https://www.univ-brest.fr/departement-mathematiques/fr/membre/carl-tipler} and [Lars Martin Sektnan]{https://www.chalmers.se/en/persons/sektnan/}.
