@@ -5,10 +5,10 @@ Contact: jean-baptiste.cadart@univ-brest.fr
 Office: C103
 
 # About me
-I am a PhD student in complex geometry at Occidental Bretagne University (UBO) and Chalmers University of Technology, under the supervision of <a href="https://www.univ-brest.fr/departement-mathematiques/fr/membre/carl-tipler">Carl Tipler</a> and <a href="https://www.chalmers.se/en/persons/sektnan/">Lars Martin Sektnan</a>.
+I am a PhD student in complex geometry at Université de Bretagne Occidentale (UBO) and Chalmers University of Technology, under the supervision of <a href="https://www.univ-brest.fr/departement-mathematiques/fr/membre/carl-tipler">Carl Tipler</a> and <a href="https://www.chalmers.se/en/persons/sektnan/">Lars Martin Sektnan</a>.
 
 # Ethics in Mathematics
-**First Talk :** <a href="https://www.uni-saarland.de/lehrstuhl/lazic/prof-dr-vladimir-lazic/vladimir-lazic-where-i-stand-on-ai.html">Vladimir Lazić</a> - Discussion and debate from "Where I stand on AI". Thursday 29, 9 a.m. Paris Time.
+**First Talk :** <a href="https://www.uni-saarland.de/lehrstuhl/lazic/prof-dr-vladimir-lazic/vladimir-lazic-where-i-stand-on-ai.html">Vladimir Lazić</a> - Discussion and debate from "Where I stand on AI". Thursday 29, 9 a.m. UTC+2 (Paris Time).
 
 Meeting link: https://visio.numerique.gouv.fr/kjz-utnx-edu
 
