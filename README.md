@@ -8,7 +8,11 @@ Office: C103
 I am a PhD student in complex geometry at Université de Bretagne Occidentale (UBO) and Chalmers University of Technology, under the supervision of <a href="https://www.univ-brest.fr/departement-mathematiques/fr/membre/carl-tipler">Carl Tipler</a> and <a href="https://www.chalmers.se/en/persons/sektnan/">Lars Martin Sektnan</a>.
 
 # Ethics in Mathematics
-**First Talk :** <a href="https://www.uni-saarland.de/lehrstuhl/lazic/prof-dr-vladimir-lazic/vladimir-lazic-where-i-stand-on-ai.html">Vladimir Lazić</a> - Discussion and debate from "Where I stand on AI". Thursday 29, 9 a.m. UTC+2 (Paris Time).
+Over this year, I will organize a series of seminars to question the responsibility of mathematics in the current crises humanity is facing now. The frequency of the seminars is still unclear at this date. 
+
+At each seminar, at least one scientist, philosopher, historian, economist, etc will have time to develop their point of view. To do so, the seminars will be composed of one part of discussion between the organizer (Jean-Baptiste Cadart) and the speaker, and a second of question-answers with the assembly.
+
+**First Talk :** <a href="https://www.uni-saarland.de/lehrstuhl/lazic/prof-dr-vladimir-lazic/vladimir-lazic-where-i-stand-on-ai.html">Vladimir Lazić</a> - Discussion and debate from "Where I stand on AI". Thursday 29, 9-10:30 a.m. UTC+2 (Paris Time).
 
 Meeting link: https://visio.numerique.gouv.fr/kjz-utnx-edu
 
