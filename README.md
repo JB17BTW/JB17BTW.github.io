@@ -1,4 +1,4 @@
-Hey! I am Jean-Baptiste Cadart. This website is still ugly, I'm working on it ;-)
+Hey! I am Jean-Baptiste Cadart and this is my personal website. This website is still ugly, I'm working on it ;-)
 # Contact information
 Contact: jean-baptiste.cadart@univ-brest.fr
 
