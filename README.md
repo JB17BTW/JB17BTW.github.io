@@ -17,4 +17,4 @@ The good news is the following: AI companies base their economy on a <a href="ht
 The <a href="https://atecopol.hypotheses.org/13082">objection of conscience<a/> raised by Atécopol is the closest stance to mine. I naturally agree with the analysis of <a href="https://atecopol.hypotheses.org/13082">Vladimir Lazić<a/> and <a href="https://arxiv.org/abs/2608.02859">Max Weinreich<a/>.
 
 # Activities on my free time
-I am an active member of <a href="https://www.ahmath.org/">AHM</a> and I run a series of seminars called <a href="https://jb17btw.github.io/Ethics-in-mathematics-and-science/">Ethics in Mathematics and Science<a/>.
+I am an active member of <a href="https://www.ahmath.org/">AHM</a> and I run a series of seminars called <a href="https://jeanbaptistecadart.github.io/Ethics-in-mathematics-and-science/">Ethics in Mathematics and Science<a/>.
